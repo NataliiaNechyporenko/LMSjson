@@ -1,0 +1,70 @@
+{
+"post": [
+    {
+    "id": 1,
+    "isNew": true,
+    "title": "First post",
+    "date": "26/01/18",
+    "time": "19:30",
+    "userID": "1",
+    "message": "Hello world!",
+    "likes": 0,
+},
+{
+"id": 2,
+"isNew": true,
+"title": "Second post",
+"date": "26/01/18",
+"time": "22:30",
+"userID": "2",
+"message": "Hello world!",
+"likes": 0,
+}
+],
+"comments": [
+    {   "postID": 1,
+        "commentID": 1,
+        "isNew": true,
+        "date": "26/01/18",
+        "time": "21:30",
+        "userID": "2",
+        "message": "Well? hello",
+        "likes": 1
+    },
+    {   "postID": 1,
+        "commentID": 2,
+        "isNew": true,
+        "date": "26/01/18",
+        "time": "22:30",
+        "userID": "2",
+        "message": "Second comment",
+        "likes": 1
+    }
+],
+"user": [
+    {
+    "userID": 1,
+    "firstName": "Sasha",
+    "lastName": "Ivanov",
+    "email": "ivanov@gmail.com",
+    "password": "12345",
+    "role": "Student",
+    "gruop": "fe3",
+    "couses": "FE",
+    "photo": "src",
+    "isOnline": true,
+},
+{
+"userID": 2,
+"firstName": "Misha",
+"lastName": "Ivanov",
+"email": "ivanov@gmail.com",
+"password": "12345",
+"role": "Student",
+"gruop": "BackE3",
+"couses": "BackE3",
+"photo": "src",
+"isOnline": true,
+}
+]
+}
