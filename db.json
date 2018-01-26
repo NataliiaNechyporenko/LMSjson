@@ -9,17 +9,17 @@
     "userID": "",
     "message": "",
     "likes": 0,
-    "comments": [
-        {
-            "commentID": 0,
-            "isNew": true,
-            "date": "",
-            "time": "",
-            "userID": "",
-            "message": "",
-            "likes": 0
-        }
-    ],
+    }
+],
+"comments": [
+    {   "postID": 0,
+        "commentID": 0,
+        "isNew": true,
+        "date": "",
+        "time": "",
+        "userID": "",
+        "message": "",
+        "likes": 0
     }
 ],
 "user": [
