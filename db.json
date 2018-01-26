@@ -1,0 +1,39 @@
+{
+"post": [
+    {
+    "id": 0,
+    "isNew": true,
+    "title": "",
+    "date": "",
+    "time": "",
+    "userID": "",
+    "message": "",
+    "likes": 0,
+    "comments": [
+        {
+            "commentID": 0,
+            "isNew": true,
+            "date": "",
+            "time": "",
+            "userID": "",
+            "message": "",
+            "likes": 0
+        }
+    ]
+    }
+],
+"user": [
+    {
+    "userID": 0,
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "password": "",
+    "role": "",
+    "gruop": [],
+    "couses": [],
+    "photo": "",
+    "isOnline": "",
+    }
+]
+}
